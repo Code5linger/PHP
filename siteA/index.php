@@ -24,6 +24,11 @@
   echo "echo 1 <hr/>";
   echo "ECHO 2 <hr/>";
   echo "EcHo 3 <hr/>";
+
+  $car = 'Audi';
+  echo 'My car is ' . $car . '<br/>';
+  echo 'My car is ' . $Car . '<br/>';
+  echo 'My car is ' . $CAR . '<br/>';
   ?>
 </body>
 
